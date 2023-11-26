@@ -4,6 +4,8 @@ import ContactList from './ContactList/ContactList';
 import Filter from './Filter/Filter';
 import { nanoid } from 'nanoid';
 
+//.........
+
 const key = 'contacts';
 const getInitialContacts = () => [
   { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
